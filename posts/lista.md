@@ -11,6 +11,9 @@ Aqui estão os projetos python feitos por pessoas da comunidade Python do Rio de
 Janeiro. Venha contribuir! Os nomes dos desenvolvedores desses módulos estão nos
 repositórios dos projetos.
 
+-[algpedia](https://github.com/thaisviana/AlgPedia) Enciclopédia open-source 
+coloborativa de algoritmos e implementações
+
 - [cloudoo](https://github.com/nexedi/cloudooo) Servidor de conversão de
   documentos XML-RPC
 
